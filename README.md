@@ -28,4 +28,7 @@ The model was tuned across 80 fits and evaluated on an unseen chronological test
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Mittal-Sankalp/campus-crowd-predictor.git](https://github.com/Mittal-Sankalp/campus-crowd-predictor.git)
-2. Run all the blocks of `Smart_Campus_Assistant.ipynb`
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run all the blocks of `Smart_Campus_Assistant.ipynb`
